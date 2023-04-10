@@ -1,2 +1,5 @@
-# ASM2_NODE
- 
+-đăng ký
+-đăng nhập
+-check quyền
+-category(thêm, sửa,xóa, cập nhật)
+-product(thêm, sửa,xóa, cập nhật)
